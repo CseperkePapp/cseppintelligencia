@@ -12,6 +12,9 @@ This is documentation of approaches that work well for me when working with Clau
 - **Zero-layer analysis clusters** - Always-active intellectual foundations  
 - **Artifact enhancement modules** - Specialized analytical lenses for specific tasks
 
+## Project / Lab Modules
+- **[Solo Enterprise Workflow Lab](aiProject-solo-enterprize-workflow-lab.md)** - End-to-end framework for discovering, designing, and iterating high-leverage solo workflows using multi-AI + automation lenses
+
 
 
 ---
