@@ -7,13 +7,31 @@ A personal research hub for developing effective AI partnership patterns. Built 
 ## What This Is
 This is documentation of approaches that work well for me when working with Claude and other AI systems, refined through trial and error.
 
-## Core Framework
-- **[Behavioral Instructions for Claude](INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)** - My zero-layer and behavioral programming approach
-- **Zero-layer analysis clusters** - Always-active intellectual foundations  
-- **Artifact enhancement modules** - Specialized analytical lenses for specific tasks
+## Quick Index
+- Core instructions: **[Behavioral Instructions for Claude](INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)**
+- Workflow R&D: **[Solo Enterprise Workflow Lab](aiProject-solo-enterprize-workflow-lab.md)**
 
-## Project / Lab Modules
-- **[Solo Enterprise Workflow Lab](aiProject-solo-enterprize-workflow-lab.md)** - End-to-end framework for discovering, designing, and iterating high-leverage solo workflows using multi-AI + automation lenses
+## Core Framework
+| Layer | Purpose | File/Notes |
+|-------|---------|------------|
+| Zero-layer analysis cluster | Always-on intellectual rigor | In instruction template |
+| Artifact enhancement lenses | Specialized analytical overlays | Instruction template section |
+| Workflow optimization clusters | Efficiency, automation, experimentation | Bottom of instruction template |
+
+## Labs / Modules
+| Module | Focus | Status |
+|--------|-------|--------|
+| Solo Enterprise Workflow Lab | Discovery → Innovation → Implementation cycle | Active v1 |
+
+## Planned Additions
+- Experiment archive template
+- Multi-AI prompt pattern catalog
+- Automation failure playbook
+
+## Badges (Planned)
+Placeholder for: workflow coverage %, experiment velocity, automation adoption
+
+---
 
 
 
