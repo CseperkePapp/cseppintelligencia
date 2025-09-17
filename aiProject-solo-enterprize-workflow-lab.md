@@ -1,4 +1,4 @@
-# Solo Enterprize Workflow Lab
+# Solo Enterprize Workflow Lab  (wip)
 *(AI project instructions)*
 
 Create a comprehensive workflow research and innovation framework for a one-person enterprise.
