@@ -1,3 +1,5 @@
+# Date: September 18, 2025
+[Prompt Engineering Basics](https://www.promptingguide.ai/introduction/basics)
 # Reference: Similar Experiments & Current Techniques
 
 ## Framework-Building Approaches (Similar to This Repo)
@@ -25,7 +27,7 @@
 - **Iterative refinement** - Systematic testing and improvement cycles
 - **Cost optimization** - Prompt engineering as cost management tool
 
-## Official Documentation (Always Current)
+## Official Documentation (as of 2025 summer)
 - [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [IBM's 2025 Guide](https://www.ibm.com/think/prompt-engineering)

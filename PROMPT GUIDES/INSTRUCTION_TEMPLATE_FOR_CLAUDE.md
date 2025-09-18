@@ -1,3 +1,4 @@
+# Date: September 18, 2025
 # Behavioral Instructions for Claude (Created with Claude)
 
 ## Table of Contents
