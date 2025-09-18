@@ -27,6 +27,15 @@ This is documentation of approaches that work well for me when working with Clau
 | Solo Enterprise Workflow Lab | Discovery → Innovation → Implementation cycle | Active v1 |
 
 ## PROMPT GUIDES
+## CUSTOM PROJECTS
+This section will collect all custom GPTs, Gems, Claude tasks, and other project-specific AI workflows or assets.
+
+**Examples (to be added):**
+- Custom GPTs for specialized tasks
+- Gems for workflow automation
+- Claude task templates
+
+Add your custom project files to the `CUSTOM PROJECTS` folder and link them here as they are created.
 - **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)** — Structured worksheet for exploring, testing, and iterating prompts with hypotheses, metrics, and findings.
 - **[Prompt Engineering Resources](PROMPT GUIDES/PROMPT_ENGINEERING_RESOURCES.md)** — Curated resources and guides for prompt engineering.
 - **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)** — Previous instruction sets for Claude.
