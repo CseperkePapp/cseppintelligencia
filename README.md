@@ -8,9 +8,11 @@ A personal research hub for developing effective AI partnership patterns. Built 
 This is documentation of approaches that work well for me when working with Claude and other AI systems, refined through trial and error.
 
 ## Quick Index
-- Core instructions: **[Behavioral Instructions for Claude](INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)**
-- Workflow R&D: **[Solo Enterprise Workflow Lab](aiProject-solo-enterprize-workflow-lab.md)**
- - Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
+- Core instructions: **[Behavioral Instructions for Claude](PROMPT GUIDES/INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)**
+- Workflow R&D: **[Solo Enterprise Workflow Lab](PROMPT GUIDES/aiProject-solo-enterprize-workflow-lab.md)**
+- Prompt engineering resources: **[Prompt Engineering Resources](PROMPT GUIDES/PROMPT_ENGINEERING_RESOURCES.md)**
+- Legacy Claude instructions: **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)**
+- Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
 
 ## Core Framework
 | Layer | Purpose | File/Notes |
@@ -26,6 +28,10 @@ This is documentation of approaches that work well for me when working with Clau
 
 ## PROMPT GUIDES
 - **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)** — Structured worksheet for exploring, testing, and iterating prompts with hypotheses, metrics, and findings.
+- **[Prompt Engineering Resources](PROMPT GUIDES/PROMPT_ENGINEERING_RESOURCES.md)** — Curated resources and guides for prompt engineering.
+- **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)** — Previous instruction sets for Claude.
+- **[Behavioral Instructions for Claude](PROMPT GUIDES/INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)** — Main behavioral and mentorship instructions for Claude.
+- **[Solo Enterprise Workflow Lab](PROMPT GUIDES/aiProject-solo-enterprize-workflow-lab.md)** — End-to-end framework for solo workflow research and automation.
 
 ## Planned Additions
 - Experiment archive template
