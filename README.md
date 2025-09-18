@@ -10,6 +10,7 @@ This is documentation of approaches that work well for me when working with Clau
 ## Quick Index
 - Core instructions: **[Behavioral Instructions for Claude](INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)**
 - Workflow R&D: **[Solo Enterprise Workflow Lab](aiProject-solo-enterprize-workflow-lab.md)**
+ - Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
 
 ## Core Framework
 | Layer | Purpose | File/Notes |
@@ -22,6 +23,9 @@ This is documentation of approaches that work well for me when working with Clau
 | Module | Focus | Status |
 |--------|-------|--------|
 | Solo Enterprise Workflow Lab | Discovery → Innovation → Implementation cycle | Active v1 |
+
+## PROMPT GUIDES
+- **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)** — Structured worksheet for exploring, testing, and iterating prompts with hypotheses, metrics, and findings.
 
 ## Planned Additions
 - Experiment archive template
