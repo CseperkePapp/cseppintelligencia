@@ -16,7 +16,7 @@ Create a comprehensive workflow research and innovation framework for a one-pers
 - Google One Premium (Gemini access)
 - Microsoft (free tier)
 - Notion (organization & planning)
-- Zapier (automation orchestration)
+- Automation: Zapier (simple flows), n8n (complex workflows & self-hosted automation)
 - Meeting / note tools: Fathom, Sembly
 - AI Tools: Claude Pro, Gemini Pro, ChatGPT5 Pro, Midjourney Pro
 
@@ -32,7 +32,7 @@ Apply:
 1. Baseline capture (time blocks, context switches, manual actions)
 2. Opportunity tagging (reduce, automate, batch, augment, eliminate)
 3. Hypothesis formation (If we <change>, we expect <metric> to improve by <X> within <interval>)
-4. Prototype (MVP script, Zap, AI prompt chain, template)
+4. Prototype (MVP script, Zap, n8n workflow, AI prompt chain, template)
 5. Measure (latency, error rate, cognitive load rating, interruption frequency)
 6. Iterate or scale (standardize + document or pivot)
 7. Archive learnings (decision log + pattern library)
@@ -49,9 +49,9 @@ Apply:
 ### 🔗 Technology Integration & Automation Cluster
 - **API thinking**: Understand data flows, integration opportunities, automation architecture
 - **Platform synergy analysis**: Identify complementary strengths across ecosystems
-- **Automation design patterns**: Trigger design, error handling, scalable orchestration
+- **Automation design patterns**: Trigger design, error handling, scalable orchestration (n8n vs Zapier selection criteria)
 - **Data architecture**: Information flow design, storage optimization, retrieval efficiency
-- **Tool selection framework**: Evaluate trade-offs, integration complexity, ROI
+- **Tool selection framework**: Evaluate trade-offs, integration complexity, ROI (consider self-hosted vs SaaS automation)
 **Use for**: Multi-platform optimization, automation design, tool stack decisions
 
 ### 🧠 Personal Knowledge Management Cluster
@@ -73,21 +73,42 @@ Apply:
 ## Opportunity Scan Template
 | Area | Current State | Friction | Lens Applied | Hypothesis | Prototype | Metric | Result | Next Action |
 |------|---------------|----------|--------------|------------|-----------|--------|--------|-------------|
-| Email triage | Mixed Gmail/Outlook | Duplicate scanning | Productivity | If unified queue via AI summary, reduce manual triage time 40% | Prompt + Zap | Avg triage min/day | TBD | Build V2 or discard |
+| Email triage | Mixed Gmail/Outlook | Duplicate scanning | Productivity | If unified queue via AI summary, reduce manual triage time 40% | n8n workflow + AI | Avg triage min/day | TBD | Build V2 or discard |
 
 ## Automation Layering Strategy
 1. Eliminate (Is this task necessary?)
 2. Simplify (Reduce steps / decision points)
 3. Standardize (Template / checklist / structured input)
 4. Augment (AI assist: draft, summarize, transform)
-5. Orchestrate (Zapier / native integration chain)
-6. Monitor (Logging, alerts, anomaly detection)
+5. Orchestrate (Zapier for simple flows, n8n for complex multi-step workflows)
+6. Monitor (Logging, alerts, anomaly detection via n8n error handling & dashboards)
+
+## n8n Workflow Architecture
+**Advanced automation patterns using n8n's node-based workflow engine:**
+
+### Workflow Design Patterns
+- **Sequential processing**: Multi-step data transformation with error handling at each stage
+- **Conditional branching**: If-then logic for smart routing based on content, time, or context
+- **Parallel execution**: Simultaneous API calls, data processing, or notification sending
+- **Schedule-based triggers**: Cron jobs, recurring tasks, and time-sensitive automation
+- **Webhook integrations**: Real-time triggers from external systems and services
+
+### n8n vs Zapier Decision Matrix
+| Use Case | n8n (Self-hosted) | Zapier (SaaS) |
+|----------|------------------|---------------|
+| Complex logic & branching | ✅ Excellent | ❌ Limited |
+| Data transformation | ✅ Full JavaScript support | ⚠️ Basic formatting |
+| Cost at scale | ✅ Fixed hosting cost | ❌ Per-operation pricing |
+| Custom integrations | ✅ HTTP requests, code nodes | ⚠️ Limited to available apps |
+| Setup complexity | ❌ Requires technical setup | ✅ Plug-and-play |
+| Debugging & monitoring | ✅ Full execution logs | ⚠️ Basic error info |
 
 ## Multi-AI Workflow Patterns
 - **Consensus refinement**: Draft in Claude → factual cross-check in Gemini → tone adjust in ChatGPT → visual in Midjourney
 - **Parallel ideation**: Same prompt to all → cluster responses → synthesize meta-summary
 - **Role specialization**: Claude (strategy), Gemini (data recall / factual), ChatGPT (narrative polish), Midjourney (visual branding)
 - **Adaptive fallback**: If API/tool fails, reroute to alternative AI or manual micro-template
+- **n8n AI orchestration**: Complex multi-step AI workflows with conditional logic, error handling, and data persistence
 
 ## Metrics Dashboard (Lightweight)
 - Daily deep work hours (target vs actual)
@@ -121,10 +142,14 @@ Apply:
 State explicitly: "Applying: <Cluster / Lens>" when using any structured analytical frame.
 
 ## Initial High-Impact Candidates (Examples)
-- Unified capture pipeline (voice → transcript → structured note → action extraction)
+- Unified capture pipeline (voice → transcript → structured note → action extraction via n8n)
 - Meeting note AI consolidation (Fathom + Sembly → synthesis → decision/action auto-insert into Notion)
 - Daily planning script (Pull calendar + priority tasks → propose focused blocks + energy alignment)
 - Content atomization (Long-form draft → snippet library → scheduled distribution)
+- **n8n-specific workflows**:
+  - Email processing: Auto-categorize, extract actions, create tasks with intelligent routing
+  - Document pipeline: PDF → text extraction → AI summarization → tagged storage
+  - Social media automation: Content calendar → multi-platform posting with platform-specific formatting
 
 ---
 Iterate relentlessly: small cycles, measurable deltas, documented learning.
