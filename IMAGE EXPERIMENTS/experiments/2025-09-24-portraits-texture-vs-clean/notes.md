@@ -12,6 +12,7 @@ Next:
 - Test stability across seeds, verify consistency over 10 runs
 - Add Midjourney comparison with same prompt framing
 - Compile side-by-side grid for docs
+	- See: [comparison.md](comparison.md)
 
 ## References
 - Source image: refs/source-secondlife.jpg (add the file to the `refs/` folder)
