@@ -17,9 +17,9 @@ This is documentation of approaches that work well for me when working with Clau
 ## Core Framework
 | Layer | Purpose | File/Notes |
 |-------|---------|------------|
-| Zero-layer analysis cluster | Always-on intellectual rigor | In instruction template |
-| Artifact enhancement lenses | Specialized analytical overlays | Instruction template section |
-| Workflow optimization clusters | Efficiency, automation, experimentation | Bottom of instruction template |
+| Zero-layer analysis cluster | Always-on intellectual rigor | Include this in basic instruction template |
+| Artifact enhancement lenses | Specialized analytical overlays | Include in project instructions |
+| Workflow optimization clusters | Efficiency, automation, experimentation | This is a separate project |
 
 ## Labs / Modules
 | Module | Focus | Status |
@@ -32,7 +32,6 @@ This section will collect all custom GPTs, Gems, Claude tasks, and other project
 
 **Examples (to be added):**
 
-Add your custom project files to the `CUSTOM PROJECTS` folder and link them here as they are created.
 ### Snap Text Extractor
 - [Snap Text Extractor (Markdown)](CUSTOM PROJECTS/snap-text-extractor.md)
 - [Snap Text Extractor on ChatGPT](https://chatgpt.com/g/g-68cb8804bb288191a6744d0e152285d3-snap-text-extractor)
