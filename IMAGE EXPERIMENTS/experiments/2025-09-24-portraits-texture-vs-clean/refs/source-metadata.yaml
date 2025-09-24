@@ -1,0 +1,34 @@
+source:
+  title: Second Life screenshot (user-provided)
+  platform: Second Life
+  attribution: Provided by repository owner
+  file: source-secondlife.jpg
+  capture_date: 2025-09-24
+  notes: Base reference for portrait experiments (texture vs clean)
+
+content_description:
+  subject: male avatar in alley, rolled-sleeve tee, tattoos, gloves
+  mood_style: gritty alley, magenta tint, high contrast
+  framing: mid shot, 85mm look, shallow background detail
+
+usage:
+  purpose: baseline reference for prompt/style comparisons (Gemini vs DALL·E)
+  constraints:
+    - do not request celebrity likeness
+    - describe desired traits abstractly (non-celebrity)
+
+technical:
+  resolution: unknown
+  lighting: appears hard side-light with color cast
+  color_cast: magenta/pink tint
+  edits: unknown
+
+rights:
+  owner: repository owner
+  usage: internal experiment documentation
+
+labels:
+  - reference
+  - portrait
+  - secondlife
+  - baseline
