@@ -14,6 +14,7 @@ This is documentation of approaches that work well for me when working with Clau
 - Legacy Claude instructions: **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)**
 - Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
  - Incident notes: **[AI Incident Logs](INCIDENT LOGS/README.md)**
+ - Image R&D: **[Image Generation Experiments](IMAGE EXPERIMENTS/README.md)**
 
 ## Core Framework
 | Layer | Purpose | File/Notes |
@@ -26,6 +27,7 @@ This is documentation of approaches that work well for me when working with Clau
 | Module | Focus | Status |
 |--------|-------|--------|
 | Solo Enterprise Workflow Lab | Discovery → Innovation → Implementation cycle | Active v1 |
+| Image Generation Experiments | Model comparisons, prompt controls, safety behavior | Active v0 |
 
 ## PROMPT GUIDES
 ## CUSTOM PROJECTS

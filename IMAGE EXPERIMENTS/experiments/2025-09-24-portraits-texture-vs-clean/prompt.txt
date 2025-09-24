@@ -1,0 +1,14 @@
+Base prompt:
+"Portrait of a [non-celebrity] middle-aged person, 85mm look, Rembrandt lighting, natural texture, minimal retouching."
+
+Model variations:
+- Gemini: high realism setting, soft light bias
+- ChatGPT (DALL·E): textured detail emphasis
+
+Variables to test (one at a time):
+- lighting: Rembrandt vs hard light vs softbox
+- texture: minimal retouch vs emphasized pores and roughness
+- environment: studio gray vs outdoors overcast
+- lens look: 50mm vs 85mm vs 135mm
+
+Safety note: Avoid any celebrity likeness or mixing celebrity features; describe desired traits abstractly.
