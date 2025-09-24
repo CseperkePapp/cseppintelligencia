@@ -13,6 +13,7 @@ This is documentation of approaches that work well for me when working with Clau
 - Prompt engineering resources: **[Prompt Engineering Resources](PROMPT GUIDES/PROMPT_ENGINEERING_RESOURCES.md)**
 - Legacy Claude instructions: **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)**
 - Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
+ - Incident notes: **[AI Incident Logs](INCIDENT LOGS/README.md)**
 
 ## Core Framework
 | Layer | Purpose | File/Notes |
