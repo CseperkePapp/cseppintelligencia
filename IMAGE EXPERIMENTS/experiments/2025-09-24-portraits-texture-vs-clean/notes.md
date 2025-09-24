@@ -19,17 +19,18 @@ Next:
 - Metadata: [refs/source-metadata.yaml](refs/source-metadata.yaml)
 
 ## Outputs — Gemini
-- Place file at: outputs/gemini/2025-09-24-gemini-portrait-01.jpg
-- Prompt: long iterative process (not logged here)
-- Settings (if known): size=?, seed=?, guidance=?, sampler=?
-- Observations: clean skin, cinematic rim light, mild snow particulate; soft DOF; subtle orange-blue contrast.
+
+### Gemini_Generated_Image_x4t97rx4t97rx4t9.png
+- File: outputs/gemini/Gemini_Generated_Image_x4t97rx4t97rx4t9.png
+- Created by Gemini after being shown the ChatGPT image output.
+- Prompt: (see process notes)
+- Settings: unknown
+- Observations: see visual comparison.
 
 Todo:
-- [ ] Save the attached Gemini image into the path above
-- [ ] Add basic EXIF/notes (dimensions, format) below
-- [ ] Create side-by-side grid with ChatGPT output when available
+- [ ] Save the Gemini image as above
+- [ ] Add EXIF/notes if needed
 
 Image notes:
-- Dimensions: tbd
-- Format: JPG
+- Format: PNG
 - License: experimental use only, internal comparison
