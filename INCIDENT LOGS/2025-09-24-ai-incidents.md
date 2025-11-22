@@ -1,5 +1,6 @@
-# Date: September 24, 2025
 # AI Incident Log
+**Created:** September 24, 2025
+**Last Updated:** September 24, 2025
 
 A running log of notable AI issues, failures, and lessons learned. Use concise entries with actionable takeaways.
 
