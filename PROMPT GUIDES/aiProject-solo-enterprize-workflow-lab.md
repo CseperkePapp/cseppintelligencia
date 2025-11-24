@@ -1,5 +1,6 @@
-# Date: September 18, 2025
 # Solo Enterprize Workflow Lab
+**Created:** September 18, 2025
+**Last Updated:** November 22, 2025
 *(AI project instructions)*
 
 Create a comprehensive workflow research and innovation framework for a one-person enterprise.
@@ -18,7 +19,7 @@ Create a comprehensive workflow research and innovation framework for a one-pers
 - Notion (organization & planning)
 - Automation: Zapier (simple flows), n8n (complex workflows & self-hosted automation)
 - Meeting / note tools: Fathom, Sembly
-- AI Tools: Claude Pro, Gemini Pro, ChatGPT5 Pro, Midjourney Pro
+- AI Tools: Claude Pro (Sonnet 4.5), Gemini Advanced (Gemini 3 Pro), ChatGPT Plus (GPT-5.1), Midjourney Pro
 
 ## Systems Thinking & Creative Problem-Solving
 Apply:
@@ -104,11 +105,12 @@ Apply:
 | Debugging & monitoring | ✅ Full execution logs | ⚠️ Basic error info |
 
 ## Multi-AI Workflow Patterns
-- **Consensus refinement**: Draft in Claude → factual cross-check in Gemini → tone adjust in ChatGPT → visual in Midjourney
-- **Parallel ideation**: Same prompt to all → cluster responses → synthesize meta-summary
-- **Role specialization**: Claude (strategy), Gemini (data recall / factual), ChatGPT (narrative polish), Midjourney (visual branding)
+- **Consensus refinement**: Draft in Claude Sonnet 4.5 → factual cross-check in Gemini 3 Pro → tone adjust in GPT-5.1 → visual in Midjourney
+- **Parallel ideation**: Same prompt to all models → cluster responses → synthesize meta-summary
+- **Role specialization**: Claude Sonnet 4.5 (strategy, coding, long-horizon reasoning), Gemini 3 Pro (multimodal understanding, terminal operations), GPT-5.1 (adaptive reasoning, conversational polish), Midjourney (visual branding)
 - **Adaptive fallback**: If API/tool fails, reroute to alternative AI or manual micro-template
 - **n8n AI orchestration**: Complex multi-step AI workflows with conditional logic, error handling, and data persistence
+- **Model-specific optimization**: Leverage GPT-5.1's adaptive reasoning for variable-complexity tasks, Claude Sonnet 4.5's parallel tool execution for multi-step operations, Gemini 3 Pro's advanced thinking for complex reasoning
 
 ## Metrics Dashboard (Lightweight)
 - Daily deep work hours (target vs actual)

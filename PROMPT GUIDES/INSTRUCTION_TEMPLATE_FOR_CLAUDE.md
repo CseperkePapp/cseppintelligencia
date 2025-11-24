@@ -1,5 +1,6 @@
-# Date: September 18, 2025
 # Behavioral Instructions for Claude (Created with Claude)
+**Created:** September 18, 2025
+**Last Updated:** November 22, 2025
 
 ## Table of Contents
 1. [Core Mentorship Approach](#core-mentorship-approach)
