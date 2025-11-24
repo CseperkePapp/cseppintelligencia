@@ -11,6 +11,7 @@ This is documentation of approaches that work well for me when working with Clau
 - Core instructions: **[Behavioral Instructions for Claude](PROMPT GUIDES/INSTRUCTION_TEMPLATE_FOR_CLAUDE.md)**
 - Workflow R&D: **[Solo Enterprise Workflow Lab](PROMPT GUIDES/aiProject-solo-enterprize-workflow-lab.md)**
 - Prompt engineering resources: **[Prompt Engineering Resources](PROMPT GUIDES/PROMPT_ENGINEERING_RESOURCES.md)**
+- LLM production pipeline: **[The Five-Stage LLM Usage Pipeline](PROMPT GUIDES/LLM-Usage-Pipeline.md)**
 - Legacy Claude instructions: **[Legacy Claude Instructions](PROMPT GUIDES/legacy-Claude-instructions.md)**
 - Template: **[Prompt Research Template](PROMPT GUIDES/prompt_research_template.md)**
  - Incident notes: **[AI Incident Logs](INCIDENT LOGS/README.md)**
